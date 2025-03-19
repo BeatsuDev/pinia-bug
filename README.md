@@ -1,1 +1,1 @@
-Run with `pnpm run dev` and go to http://localhost:5173/
+Run with `pnpm i && pnpm run dev` and go to http://localhost:5173/
